@@ -28,11 +28,13 @@
         android:orientation="vertical">
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="16dp"
             android:text="Sign up"
-            android:textSize="42sp"
             android:textColor="#9C27B0"
+            android:textSize="42sp"
             android:textStyle="bold">
 
         </TextView>

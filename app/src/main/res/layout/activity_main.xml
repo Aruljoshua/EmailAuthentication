@@ -44,7 +44,8 @@
             android:text="Login"
             android:textColor="#9C27B0"
             android:textSize="42sp"
-            android:layout_marginLeft="100dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="16dp"
             android:textStyle="bold">
 
         </TextView>
