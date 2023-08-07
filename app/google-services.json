@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977417473620",
+    "project_id": "loginsingup-ce70a",
+    "storage_bucket": "loginsingup-ce70a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977417473620:android:2f402dd425381d0c72a7c1",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977417473620-lucaim0fcjva0hqu0mpsu32q29qg7tfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBXV27yzy9PQbR71Tje8VWfu7tu3JjYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977417473620-lucaim0fcjva0hqu0mpsu32q29qg7tfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
